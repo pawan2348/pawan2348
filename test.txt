@@ -4,3 +4,4 @@ test3
 tgxgb
 rserver1
 rserver2
+rserver3
